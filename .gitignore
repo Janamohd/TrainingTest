@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DataAccess/bin/Debug/net8.0
+/DataAccess/obj
+/ItemsWorksheet/bin/Debug/net8.0
+/ItemsWorksheet/obj
+/TrainingAPI/bin/Debug/net8.0
+/TrainingAPI/obj
